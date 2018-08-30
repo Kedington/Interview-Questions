@@ -3,7 +3,7 @@
 This is a general list of questions for any programming position. 
 
 ### Purpose
-The aim of these questions is to get a considerable impression of a interviewee's technical abilities and behavioral fit.
+The aim of these questions is to ascertain an interviewee's technical abilities and behavioral fit.
 
 When looking for a potential candidate I want to see someone who has programmed with purpose. Someone who has made mindful decisions when choosing technologies and design patterns. Put simply their ability to articulate what they did and why they did it is incredibly important. 
 
