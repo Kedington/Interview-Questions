@@ -72,9 +72,20 @@ What qualities do you look for in a mentor?
 
 What do you like about working in our space?
 
-How will you bring value to our company
+How will you bring value to our company?
 
 Where do you see yourself in 5 years?
+```
+
+## Additional Questions 
+
+```
+Why do you program?
+
+When is the last time you gave up on a problem you were trying to solve?
+
+When was the last time you thought you had solved a problem but realized you had missed something?
+
 ```
 
 
