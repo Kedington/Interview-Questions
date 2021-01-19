@@ -86,6 +86,8 @@ When is the last time you gave up on a problem you were trying to solve?
 
 When was the last time you thought you had solved a problem but realized you had missed something?
 
+What qualities make a good engineer?
+
 ```
 
 
